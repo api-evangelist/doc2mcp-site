@@ -74,9 +74,36 @@ Everything profiled for doc2mcp-site is published on APIs.io rather than in this
 
 ### APIs (1)
 
-- doc2mcp MCP Service — doc2mcp product documentation
+- [doc2mcp MCP Service](https://apis.io/apis/doc2mcp-site/mcp/) — doc2mcp product documentation
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Doc2Mcp Site Authentication](https://apis.io/security/doc2mcp-site/doc2mcp-site-authentication/)
+- [Doc2Mcp Site Domain Security](https://apis.io/security/doc2mcp-site/doc2mcp-site-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Doc2Mcp Site Scopes](https://apis.io/scopes/doc2mcp-site/doc2mcp-site-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Doc2Mcp Site Plans Pricing](https://apis.io/plans/doc2mcp-site/doc2mcp-site-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Doc2Mcp Site Rate Limits](https://apis.io/rate-limits/doc2mcp-site/doc2mcp-site-rate-limits/)
 
 ## Where to find this API
 
@@ -94,7 +121,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/doc2mcp-site/](https://apis.io/providers/doc2mcp-site/).
+**Kin Score 25.3** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 44.7 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/doc2mcp-site/](https://apis.io/providers/doc2mcp-site/).
 
 ## How this profile is made
 
